@@ -1,0 +1,10 @@
+C:\Users\Adelmo\source\repos\Mensagens\Mensagens\bin\Debug\Mensagens.exe.config
+C:\Users\Adelmo\source\repos\Mensagens\Mensagens\bin\Debug\Mensagens.exe
+C:\Users\Adelmo\source\repos\Mensagens\Mensagens\bin\Debug\Mensagens.pdb
+C:\Users\Adelmo\source\repos\Mensagens\Mensagens\obj\Debug\Mensagens.csprojAssemblyReference.cache
+C:\Users\Adelmo\source\repos\Mensagens\Mensagens\obj\Debug\Mensagens.Properties.Resources.resources
+C:\Users\Adelmo\source\repos\Mensagens\Mensagens\obj\Debug\Mensagens.csproj.GenerateResource.cache
+C:\Users\Adelmo\source\repos\Mensagens\Mensagens\obj\Debug\Mensagens.csproj.CoreCompileInputs.cache
+C:\Users\Adelmo\source\repos\Mensagens\Mensagens\obj\Debug\Mensagens.exe
+C:\Users\Adelmo\source\repos\Mensagens\Mensagens\obj\Debug\Mensagens.pdb
+C:\Users\Adelmo\source\repos\Mensagens\Mensagens\obj\Debug\Mensagens.Form1.resources
